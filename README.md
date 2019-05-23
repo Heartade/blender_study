@@ -1,2 +1,3 @@
 # blender_study
-Make Graphics Great Again
+블렌더 공부 합니다
+나 20대 청년인데 동년배들 다 쓰리디 한다
